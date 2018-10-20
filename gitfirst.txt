@@ -1,2 +1,4 @@
 This is sample git project
 
+learning merge concept
+Learning rebase
